@@ -1,0 +1,6 @@
+com\example\config\AppConfig.class
+com\example\conditionalApplication\ConditionalApplication.class
+com\example\controller\ProfileController.class
+com\example\model\SystemProfile.class
+com\example\model\ProductionProfile.class
+com\example\model\DevProfile.class
