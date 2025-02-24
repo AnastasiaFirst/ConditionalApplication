@@ -1,0 +1,13 @@
+version: '3.8'
+services:
+  devapp:
+    build:
+      context: ./path/to/devapp
+    ports:
+      - "8080:8080"
+
+  prodapp:
+    build:
+      context: ./path/to/prodapp
+    ports:
+      - "8081:8081"
